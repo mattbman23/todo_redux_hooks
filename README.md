@@ -1,2 +1,8 @@
-# todo_redux_hooks
-Todo app using redux and hooks in javascript
+# Purpose
+
+This repo is an example of using `redux + hooks` in reactjs.
+
+## **Installation Options**
+
+1. Install the dependencies with `npm install`
+2. Start the server by running the command `npm start`

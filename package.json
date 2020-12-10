@@ -1,0 +1,41 @@
+{
+  "name": "todo_redux_hooks",
+  "version": "1.0.0",
+  "description": "Todo app using redux and hooks in javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattBman23/todo_redux_hooks.git"
+  },
+  "keywords": [],
+  "author": "Matthew Budiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattBman23/todo_redux_hooks/issues"
+  },
+  "dependencies": {
+    "framer-motion": "^2.9.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-scripts": "^4.0.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^8.3.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
